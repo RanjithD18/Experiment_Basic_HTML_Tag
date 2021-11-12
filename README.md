@@ -19,7 +19,7 @@ Execute the program
 <body>
 <h1>Name: Ranjith D</h1>
 <h2>Roll No.: 21500662</h2>
-<h4>Dept.: Artificial Intelligence and Machine Learing
+<h4>Dept.: Artificial Intelligence and Machine Learning
 </body>
 </html>
 ~~~
