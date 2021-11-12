@@ -14,6 +14,22 @@ Add a paragragh tag to the program
 Execute the program
 
 # CODE
-*Paste your code here*
+~~~<!Doctype html>
+<html>
+<body>
+<h1>Name: Ranjith D</h1>
+<h2>Roll No.: 21500662</h2>
+<h4>Dept.: Artificial Intelligence and Machine Learing
+</body>
+</html>
+~~~
+
 # OUPUT
-*OUTPUT*
+<!Doctype html>
+<html>
+<body>
+<h1>Name: Ranjith D</h1>
+<h2>Roll No.: 21500662</h2>
+<h4>Dept.: Artificial Intelligence and Machine Learing
+</body>
+</html>
